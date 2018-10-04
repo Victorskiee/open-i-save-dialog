@@ -1,0 +1,10 @@
+C:\Users\Wikuś\Desktop\ciąg arytmetyczny\ciąg arytmetyczny\bin\Debug\ciąg arytmetyczny.exe.config
+C:\Users\Wikuś\Desktop\ciąg arytmetyczny\ciąg arytmetyczny\bin\Debug\ciąg arytmetyczny.exe
+C:\Users\Wikuś\Desktop\ciąg arytmetyczny\ciąg arytmetyczny\bin\Debug\ciąg arytmetyczny.pdb
+C:\Users\Wikuś\Desktop\ciąg arytmetyczny\ciąg arytmetyczny\obj\Debug\ciąg arytmetyczny.csprojAssemblyReference.cache
+C:\Users\Wikuś\Desktop\ciąg arytmetyczny\ciąg arytmetyczny\obj\Debug\ciąg_arytmetyczny.Form1.resources
+C:\Users\Wikuś\Desktop\ciąg arytmetyczny\ciąg arytmetyczny\obj\Debug\ciąg_arytmetyczny.Properties.Resources.resources
+C:\Users\Wikuś\Desktop\ciąg arytmetyczny\ciąg arytmetyczny\obj\Debug\ciąg arytmetyczny.csproj.GenerateResource.cache
+C:\Users\Wikuś\Desktop\ciąg arytmetyczny\ciąg arytmetyczny\obj\Debug\ciąg arytmetyczny.csproj.CoreCompileInputs.cache
+C:\Users\Wikuś\Desktop\ciąg arytmetyczny\ciąg arytmetyczny\obj\Debug\ciąg arytmetyczny.exe
+C:\Users\Wikuś\Desktop\ciąg arytmetyczny\ciąg arytmetyczny\obj\Debug\ciąg arytmetyczny.pdb
